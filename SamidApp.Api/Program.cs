@@ -15,7 +15,7 @@ builder.Services.AddControllers().AddNewtonsoftJson(options =>
     options.SerializerSettings.ReferenceLoopHandling = ReferenceLoopHandling.Ignore);
 
 builder.Services.AddDbContext<MarketDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("MarketDb")));
+    options.UseNpgsql(builder.Configuration.GetConnectionString("MarketDb")));
 builder.Services.AddAutoMapper(typeof(MapperProfile));
 
 // Custom services
