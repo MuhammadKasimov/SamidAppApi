@@ -46,3 +46,4 @@ C:\Users\muham\source\repos\MarketApp\SamidApp.Api\obj\Debug\net6.0\SamidApp.Api
 C:\Users\muham\source\repos\MarketApp\SamidApp.Api\obj\Debug\net6.0\ref\SamidApp.Api.dll
 C:\Users\muham\source\repos\MarketApp\SamidApp.Api\bin\Debug\net6.0\Npgsql.dll
 C:\Users\muham\source\repos\MarketApp\SamidApp.Api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\muham\source\repos\MarketApp\SamidApp.Api\bin\Debug\net6.0\libman.json
