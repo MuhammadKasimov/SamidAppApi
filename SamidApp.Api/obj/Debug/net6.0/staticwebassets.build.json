@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5plCL68vorVT1g8aCPa09vPBHaJFC1Zd0Q2PAGLUiR0=",
+  "Source": "SamidApp.Api",
+  "BasePath": "_content/SamidApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

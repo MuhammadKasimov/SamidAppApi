@@ -1,0 +1,12 @@
+C:\Users\muham\source\repos\MarketApp\SamidApp.Domain\bin\Debug\net6.0\SamidApp.Domain.deps.json
+C:\Users\muham\source\repos\MarketApp\SamidApp.Domain\bin\Debug\net6.0\SamidApp.Domain.dll
+C:\Users\muham\source\repos\MarketApp\SamidApp.Domain\bin\Debug\net6.0\SamidApp.Domain.pdb
+C:\Users\muham\source\repos\MarketApp\SamidApp.Domain\obj\Debug\net6.0\SamidApp.Domain.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\MarketApp\SamidApp.Domain\obj\Debug\net6.0\SamidApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\MarketApp\SamidApp.Domain\obj\Debug\net6.0\SamidApp.Domain.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\MarketApp\SamidApp.Domain\obj\Debug\net6.0\SamidApp.Domain.AssemblyInfo.cs
+C:\Users\muham\source\repos\MarketApp\SamidApp.Domain\obj\Debug\net6.0\SamidApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\MarketApp\SamidApp.Domain\obj\Debug\net6.0\SamidApp.Domain.dll
+C:\Users\muham\source\repos\MarketApp\SamidApp.Domain\obj\Debug\net6.0\refint\SamidApp.Domain.dll
+C:\Users\muham\source\repos\MarketApp\SamidApp.Domain\obj\Debug\net6.0\SamidApp.Domain.pdb
+C:\Users\muham\source\repos\MarketApp\SamidApp.Domain\obj\Debug\net6.0\ref\SamidApp.Domain.dll

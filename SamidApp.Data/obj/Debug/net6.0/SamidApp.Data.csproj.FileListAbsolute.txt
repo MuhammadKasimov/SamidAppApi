@@ -1,0 +1,17 @@
+C:\Users\muham\source\repos\MarketApp\SamidApp.Data\obj\Debug\net6.0\SamidApp.Data.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\MarketApp\SamidApp.Data\obj\Debug\net6.0\SamidApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\MarketApp\SamidApp.Data\obj\Debug\net6.0\SamidApp.Data.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\MarketApp\SamidApp.Data\obj\Debug\net6.0\SamidApp.Data.AssemblyInfo.cs
+C:\Users\muham\source\repos\MarketApp\SamidApp.Data\obj\Debug\net6.0\SamidApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\MarketApp\SamidApp.Data\bin\Debug\net6.0\SamidApp.Data.deps.json
+C:\Users\muham\source\repos\MarketApp\SamidApp.Data\bin\Debug\net6.0\SamidApp.Data.runtimeconfig.json
+C:\Users\muham\source\repos\MarketApp\SamidApp.Data\bin\Debug\net6.0\SamidApp.Data.dll
+C:\Users\muham\source\repos\MarketApp\SamidApp.Data\bin\Debug\net6.0\SamidApp.Data.pdb
+C:\Users\muham\source\repos\MarketApp\SamidApp.Data\bin\Debug\net6.0\SamidApp.Domain.dll
+C:\Users\muham\source\repos\MarketApp\SamidApp.Data\bin\Debug\net6.0\SamidApp.Domain.pdb
+C:\Users\muham\source\repos\MarketApp\SamidApp.Data\obj\Debug\net6.0\SamidApp.Data.csproj.CopyComplete
+C:\Users\muham\source\repos\MarketApp\SamidApp.Data\obj\Debug\net6.0\SamidApp.Data.dll
+C:\Users\muham\source\repos\MarketApp\SamidApp.Data\obj\Debug\net6.0\refint\SamidApp.Data.dll
+C:\Users\muham\source\repos\MarketApp\SamidApp.Data\obj\Debug\net6.0\SamidApp.Data.pdb
+C:\Users\muham\source\repos\MarketApp\SamidApp.Data\obj\Debug\net6.0\SamidApp.Data.genruntimeconfig.cache
+C:\Users\muham\source\repos\MarketApp\SamidApp.Data\obj\Debug\net6.0\ref\SamidApp.Data.dll

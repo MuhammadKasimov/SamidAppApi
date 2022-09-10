@@ -1,0 +1,17 @@
+C:\Users\muham\source\repos\MarketApp\SamidApp.Service\obj\Debug\net6.0\SamidApp.Service.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\MarketApp\SamidApp.Service\obj\Debug\net6.0\SamidApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\MarketApp\SamidApp.Service\obj\Debug\net6.0\SamidApp.Service.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\MarketApp\SamidApp.Service\obj\Debug\net6.0\SamidApp.Service.AssemblyInfo.cs
+C:\Users\muham\source\repos\MarketApp\SamidApp.Service\obj\Debug\net6.0\SamidApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\MarketApp\SamidApp.Service\bin\Debug\net6.0\SamidApp.Service.deps.json
+C:\Users\muham\source\repos\MarketApp\SamidApp.Service\bin\Debug\net6.0\SamidApp.Service.dll
+C:\Users\muham\source\repos\MarketApp\SamidApp.Service\bin\Debug\net6.0\SamidApp.Service.pdb
+C:\Users\muham\source\repos\MarketApp\SamidApp.Service\bin\Debug\net6.0\SamidApp.Data.dll
+C:\Users\muham\source\repos\MarketApp\SamidApp.Service\bin\Debug\net6.0\SamidApp.Domain.dll
+C:\Users\muham\source\repos\MarketApp\SamidApp.Service\bin\Debug\net6.0\SamidApp.Data.pdb
+C:\Users\muham\source\repos\MarketApp\SamidApp.Service\bin\Debug\net6.0\SamidApp.Domain.pdb
+C:\Users\muham\source\repos\MarketApp\SamidApp.Service\obj\Debug\net6.0\SamidApp.Service.csproj.CopyComplete
+C:\Users\muham\source\repos\MarketApp\SamidApp.Service\obj\Debug\net6.0\SamidApp.Service.dll
+C:\Users\muham\source\repos\MarketApp\SamidApp.Service\obj\Debug\net6.0\refint\SamidApp.Service.dll
+C:\Users\muham\source\repos\MarketApp\SamidApp.Service\obj\Debug\net6.0\SamidApp.Service.pdb
+C:\Users\muham\source\repos\MarketApp\SamidApp.Service\obj\Debug\net6.0\ref\SamidApp.Service.dll
